@@ -1,0 +1,51 @@
+{
+  "quizzes" : [
+    {
+      "id": "1",
+      "question": "What does HTML stand for?",
+      "quiz" : [
+        "Hyper Text Markup Language",
+        "High Tech Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "correct" : "Hyper Text Markup Language"
+    },
+     {
+      "id": "2",
+      "question": "Which tag is used to define a hyperlink in HTML?",
+      "quiz" : [
+        "<link>",
+        "<href>",
+        "<a>",
+        "<hyperlink>"
+      ],
+      "correct" : "<a>"
+    },
+     {
+      "id": "3",
+      "question": "What is the correct HTML tag for inserting a line break?",
+      "quiz" : [
+        "<break>",
+        "<lb>",
+        "<br>",
+        "<linebreak>"
+      ] ,
+      "correct" : "<br>"
+    },
+     {
+      "id": "4",
+      "question": "What does the HTML <img> tag represent?",
+      "quiz" : [
+        "Image",
+        "Link",
+        "Text",
+        "Input"
+      ] ,
+      "correct" : "Image"
+    }
+    
+       
+    ]
+}
+
